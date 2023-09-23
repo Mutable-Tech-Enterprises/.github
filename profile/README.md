@@ -1,4 +1,4 @@
-<pre><img src="profile/logo.png"/>  <h1>Mutable-Tech-Enterprises</h1></pre>
+<pre><img src="profile/mutableLogo.jpg"/>  <h1>Mutable-Tech-Enterprises</h1></pre>
 
 
 ## Introduction
